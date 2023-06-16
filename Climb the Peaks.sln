@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climb the Peaks", "Climb the Peaks\Climb the Peaks.csproj", "{0D73E662-9530-41D6-AB91-70331BD6FA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navy Battle", "Navy Battle\Navy Battle.csproj", "{AFCF7C79-9C7D-40DB-8085-6349C5226C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D73E662-9530-41D6-AB91-70331BD6FA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D73E662-9530-41D6-AB91-70331BD6FA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D73E662-9530-41D6-AB91-70331BD6FA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D73E662-9530-41D6-AB91-70331BD6FA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCF7C79-9C7D-40DB-8085-6349C5226C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCF7C79-9C7D-40DB-8085-6349C5226C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCF7C79-9C7D-40DB-8085-6349C5226C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCF7C79-9C7D-40DB-8085-6349C5226C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {847F69E2-22B8-4CD9-A178-0851CB61A7A1}
+	EndGlobalSection
+EndGlobal
